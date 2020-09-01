@@ -7,8 +7,8 @@
 - Konvoy 1.4 or higher 
 - Install and configure `kubectl` and `kubectx` cli-tools 
   Here is a link for kubectx https://github.com/ahmetb/kubectx
-- Access to K8s cluster running in MKE with Aurhorization mode as `RBAC` find the link below on how to do that.
-  https://docs.mesosphere.com/services/kubernetes/2.3.3-1.14.3/operations/authn-and-authz/#rbac
+- Access to K8s cluster with Aurhorization mode as `RBAC` find the link below on how to do that.
+  
 
 1. Validate that you have admin access to k8s api-server:
 
